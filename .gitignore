@@ -1,0 +1,14 @@
+#data_Files
+*.txt
+*.csv
+*.pkl
+*.pickle
+
+#local_config_files
+*.json
+
+#notebooks
+*.ipynb
+
+#pycharm files
+*.idea
