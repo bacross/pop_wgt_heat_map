@@ -22,3 +22,4 @@ pop_centers_path = raw_data_path + '/census population centers.txt'
 
 brew_control_group_path = raw_data_path + '/breweryControlGroup.csv'
 
+craft_brew_directory_df_path = proc_data_path+'/craft_brew_directory_df.pkl'
